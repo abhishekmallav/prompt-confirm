@@ -2,7 +2,7 @@
 
 > A simple yet powerful Chrome extension that prevents accidental ChatGPT prompt submissions by adding a confirmation dialog before sending messages.
 
-![Extension Icon](images/icon-128.png)
+![Extension Icon](images/icon.png)
 
 ## 🤔 The Problem
 
