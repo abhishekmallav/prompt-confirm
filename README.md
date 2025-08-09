@@ -168,7 +168,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/prompt-confirm.git
+git clone https://github.com/abhishekmallav/prompt-confirm.git
 
 # Load the extension in Chrome
 # 1. Go to chrome://extensions/
