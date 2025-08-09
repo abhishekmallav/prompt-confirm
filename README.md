@@ -53,9 +53,7 @@ This leads to:
 
 1. **From Chrome Web Store** (Recommended)
 
-   ```
-   [Coming Soon - Pending Review]
-   ```
+   [![Get the Chrome Extension](https://developer.chrome.com/static/docs/webstore/branding/image/iNEddTyWiMfLSwFD6qGq.png)](https://chromewebstore.google.com/detail/prompt-confirm/ppbmlophbfhjlhmegeoklkdpenedahfg)
 
 2. **Manual Installation** (Developer Mode)
 
