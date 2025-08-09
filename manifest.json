@@ -2,8 +2,7 @@
   "manifest_version": 3,
   "name": "Prompt Confirm",
   "version": "1.0",
-  "description": "Confirm before sending ChatGPT prompt unless Enter is pressed twice. Prevents accidental submissions.",
-  "permissions": ["activeTab"],
+  "description": "Confirm prompt before sending to ChatGPT. Prevents accidental submissions when you meant to add a new line.",
   "content_scripts": [
     {
       "matches": ["https://chat.openai.com/*", "https://chatgpt.com/*"],
@@ -19,3 +18,4 @@
     "128": "images/icon-128.png"
   }
 }
+
