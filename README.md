@@ -88,6 +88,10 @@ This leads to:
 
 ## 🎪 Demo
 
+![](images/ChatGPT.gif)
+
+---
+
 ![Confirmation Dialog](images/demo-screenshot.png)
 
 _The confirmation dialog shows a preview of your message and provides clear options to send or cancel._
